@@ -116,10 +116,6 @@ Para documentar o funcionamento da ferramenta, foram propostas cinco perguntas e
 
 ### Pergunta 1 — O que é uma fórmula de quadratura?
 
-**Pergunta realizada:**
-
-> O que é uma fórmula de quadratura numérica? Apresente sua definição matemática, explique os conceitos de nós e pesos e indique as fontes utilizadas.
-
 **Resposta do NotebookLM:**  
 Uma fórmula de quadratura é um procedimento matemático utilizado para aproximar o valor de uma integral definida por meio de uma soma ponderada de valores da função em pontos específicos, denominados nós de quadratura. Sua expressão geral é:
 \[
@@ -135,7 +131,7 @@ Szidarovszky, Ferenc; Yakowitz, Sidney. Principles and Procedures of Numerical A
 Ramos, Jon. Cuadraturas de Gauss | Métodos Numéricos, seção “Idea general”.
 book_ena.pdf. Capítulo 7, Seção 7.2, sobre fórmulas de quadratura interpolatória.
 
-**Evidência:** `evidencias/pergunta-01-quadratura.png`
+**Evidência:** [`evidencias/pergunta 1_1.png`]
 
 ### Pergunta 2 — O que são as fórmulas de Newton–Cotes?
 
