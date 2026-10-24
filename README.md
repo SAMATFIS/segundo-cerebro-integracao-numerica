@@ -131,8 +131,8 @@ Szidarovszky, Ferenc; Yakowitz, Sidney. Principles and Procedures of Numerical A
 Ramos, Jon. Cuadraturas de Gauss | Métodos Numéricos, seção “Idea general”.
 book_ena.pdf. Capítulo 7, Seção 7.2, sobre fórmulas de quadratura interpolatória.
 
-[📷 Ver Evidência 1](Evidencias/Pergunta1_1.png)
-[📷 Ver Evidência 1](Evidencias/Pergunta1_2.png)
+[📷 Ver Evidência 1_1](Evidencias/Pergunta1_1.png)
+[📷 Ver Evidência 1_1](Evidencias/Pergunta1_2.png)
 
 ### Pergunta 2 — O que são as fórmulas de Newton–Cotes?
 
@@ -147,8 +147,8 @@ algoritmos computacionales.pdf. Capítulo 5, Seção 5.1, pp. 212–215.
 Surana, Karan S. Numerical Methods and Methods of Approximation in Science and Engineering. Capítulo 6, p. 276.
 Garg, Harish. Gauss-Legendre Quadrature Rule | Numerical Linear Algebra. Vídeo educativo.
 
-[📷 Ver Evidência 2](Evidencias/Pergunta2_1.png)
-[📷 Ver Evidência 2](Evidencias/Pergunta2_2.png)
+[📷 Ver Evidência 2_1](Evidencias/Pergunta2_1.png)
+[📷 Ver Evidência 2_2](Evidencias/Pergunta2_2.png)
 
 ### Pergunta 3 — Qual é a diferença entre Newton–Cotes abertas e fechadas?
 
@@ -160,8 +160,8 @@ Szidarovszky, Ferenc; Yakowitz, Sidney. Principles and Procedures of Numerical A
 book_ena.pdf. Capítulo 7, Seções 7.2–7.3, pp. 234–235.
 Franco, Neide Maria Bertoldi. Cálculo Numérico. Capítulo 11, Seção 11.2.1, p. 325; Capítulo 12, p. 338.
 
-[📷 Ver Evidência 3](Evidencias/Pergunta3_1.png)
-[📷 Ver Evidência 3](Evidencias/Pergunta3_2.png)
+[📷 Ver Evidência 3_1](Evidencias/Pergunta3_1.png)
+[📷 Ver Evidência 3_2](Evidencias/Pergunta3_2.png)
 
 ### Pergunta 4 — O que é a quadratura de Gauss-Legendre?
 
@@ -177,8 +177,8 @@ Franco, Neide Maria Bertoldi. Cálculo Numérico. Capítulo 11, Seção 11.3.1, 
 algoritmos computacionales.pdf. Capítulo 5, Seção 5.2, pp. 229–236.
 book_ena.pdf. Capítulo 6, Seção 6.2.3, p. 206; Capítulo 7, Seção 7.5, pp. 241–245.
 
-[📷 Ver Evidência 4](Evidencias/Pergunta4_1.png)
-[📷 Ver Evidência 4](Evidencias/Pergunta4_2.png)
+[📷 Ver Evidência 4_1](Evidencias/Pergunta4_1.png)
+[📷 Ver Evidência 4_2](Evidencias/Pergunta4_2.png)
 
 ### Pergunta 5 — Qual é a principal diferença entre Newton–Cotes e Gauss-Legendre?
 
@@ -191,80 +191,38 @@ algoritmos computacionales.pdf. Capítulo 5: Integração Numérica, Seções 5.
 book_ena.pdf. Capítulo 7: Numerical Quadrature, Seções 7.2–7.5, pp. 233–245.
 Ramos, Jon. Cuadraturas de Gauss | Métodos Numéricos. Seção “Idea general”.
 
-[📷 Ver Evidência 5](Evidencias/Pergunta5_1.png)
-[📷 Ver Evidência 5](Evidencias/Pergunta5_2.png)
-
-### Aprendizagem interativa — Tutor socrático
-
-Além das perguntas conceituais, o notebook foi configurado para orientar estudantes durante a resolução de exercícios de integração numérica.
-
-**Pergunta ao NotebookLM:**
-
-> Quero aprender a regra do trapézio. Explique inicialmente sua interpretação geométrica e, em seguida, proponha um exercício simples. Faça uma pergunta de cada vez, aguarde minha resposta e corrija meus erros sem apresentar imediatamente a solução. Utilize exclusivamente as fontes deste notebook e apresente as referências.
-
-**Comportamento esperado:**
-
-O tutor deverá apresentar uma explicação inicial fundamentada nas fontes, formular uma pergunta relacionada ao conteúdo e aguardar a participação do estudante.
-
-Quando houver erros, deverá oferecer orientações que permitam compreender e corrigir o procedimento, incentivando a construção gradual da solução.
-
-Essa estratégia busca desenvolver a capacidade de interpretação, o raciocínio matemático e a autonomia na resolução de problemas numéricos.
-
-**Evidência:** `evidencias/interacao-tutor.png`
-
-As capturas de tela deverão registrar as respostas, as citações e a interação efetivamente realizada no NotebookLM.
+[📷 Ver Evidência 5_1](Evidencias/Pergunta5_1.png)
+[📷 Ver Evidência 5_2](Evidencias/Pergunta5_2.png)
 
 ---
 
 ## 🎨 5. Materiais Gerados no Estúdio
 
-O Estúdio do NotebookLM permite transformar os conteúdos acadêmicos em diferentes materiais de aprendizagem, facilitando a organização, a revisão e a compreensão dos métodos de integração numérica.
-
-Os seguintes materiais foram previstos para complementar o projeto:
-
 **🗺️ Mapa Mental — Integração Numérica**
 
-Organização visual dos fundamentos da quadratura numérica, das fórmulas de Newton–Cotes, das regras do trapézio e Simpson e da quadratura de Gauss-Legendre.
-
-**Arquivo previsto:** `materiais/mapa-mental.png`
+[📷 Visualizar Mapa Mental](Materiales/Mapa_Mental.png)
 
 **📊 Apresentação — Métodos de Integração Numérica**
 
-Material acadêmico contendo definições, fórmulas matemáticas, explicações dos métodos, exemplos resolvidos e aplicações em Engenharia.
 
-**Arquivo previsto:** `materiais/apresentacao.pdf`
+[📄 Visualizar Apresentação](Materiales/Presentacao_Integración_Numérica.pdf)
 
 **📘 Guia de Estudos — Integração Numérica**
 
-Documento de apoio contendo conceitos fundamentais, fórmulas de quadratura, propriedades matemáticas, exercícios resolvidos, análise de erros e questões de revisão.
-
-**Arquivo previsto:** `materiais/guia-de-estudos.pdf`
+[📖 Consultar Guia de Estudos](Materiales/guia_integracion_numerica.pdf)
 
 **🎧 Resumo em Áudio — Integração Numérica**
 
-Material destinado à revisão dos principais conceitos e métodos estudados, permitindo complementar a aprendizagem por meio de explicações em áudio.
 
-**Arquivo previsto:** `materiais/resumo-em-audio.mp3`
-
-Todos os materiais deverão ser elaborados com base nas fontes disponibilizadas no notebook, respeitando os critérios de fundamentação acadêmica e rastreabilidade das informações.
-
-A produção desses recursos tem como finalidade oferecer diferentes estratégias de aprendizagem e facilitar a compreensão dos conteúdos por estudantes de Engenharia.
-
-**Observação:** Os arquivos indicados representam materiais planejados. Os respectivos links deverão ser adicionados após sua geração, exportação e disponibilização no repositório.
+[🎧 Ouvir Resumo em Áudio](Materiales/Por_qué_Gauss-Legendre_supera_a_Newton-Cotes.m4a)
 
 ---
 
 ## 🔗 6. Link do Notebook
 
-O notebook foi concebido como um ambiente de apoio ao ensino e à aprendizagem de Integração Numérica, reunindo fontes acadêmicas, interações orientadas e recursos educacionais em uma única plataforma.
-
-**Link do projeto:**
-
 [https://notebook.google.com/notebook/f1c9ba21-2f9f-4a1a-badf-ef51d1f5fe1a]
 
-Antes de disponibilizar o projeto, será necessário verificar as permissões de compartilhamento para garantir o acesso aos usuários autorizados.
 
-A proposta demonstra a aplicação da inteligência artificial como ferramenta complementar ao ensino universitário de Métodos Numéricos, promovendo a integração entre fundamentação matemática, consulta a fontes acadêmicas, interação pedagógica e aprendizagem autônoma.
 
 Um aspecto fundamental é a **rastreabilidade das informações**, assegurada por meio de citações verificáveis que permitem relacionar as respostas produzidas pelo tutor aos documentos e materiais utilizados no projeto.
 
