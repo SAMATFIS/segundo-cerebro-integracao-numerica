@@ -1,4 +1,4 @@
-# 📘 Segundo Cérebro com IA: Especialista em Integração Numérica 🧠📐
+# 📘 Integração Numérica 🧠
 
 > Projeto desenvolvido para o desafio **"Criando uma IA de Aprendizagem: Explore o Poder do NotebookLM"**, da [Digital Innovation One (DIO)](https://dio.me), com a finalidade de criar um ambiente de aprendizagem de Integração Numérica utilizando inteligência artificial e fontes acadêmicas confiáveis.
 
