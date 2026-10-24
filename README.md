@@ -278,3 +278,6 @@ Antes de disponibilizar o projeto, será necessário verificar as permissões de
 A proposta demonstra a aplicação da inteligência artificial como ferramenta complementar ao ensino universitário de Métodos Numéricos, promovendo a integração entre fundamentação matemática, consulta a fontes acadêmicas, interação pedagógica e aprendizagem autônoma.
 
 Um aspecto fundamental é a **rastreabilidade das informações**, assegurada por meio de citações verificáveis que permitem relacionar as respostas produzidas pelo tutor aos documentos e materiais utilizados no projeto.
+
+
+![Evidência](Evidencias/pergunta1_1.png)
