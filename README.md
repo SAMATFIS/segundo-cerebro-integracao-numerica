@@ -280,4 +280,4 @@ A proposta demonstra a aplicação da inteligência artificial como ferramenta c
 Um aspecto fundamental é a **rastreabilidade das informações**, assegurada por meio de citações verificáveis que permitem relacionar as respostas produzidas pelo tutor aos documentos e materiais utilizados no projeto.
 
 
-![Evidência](Evidencias/pergunta1_1.png)
+![Evidência](Evidencias/Pergunta1_1.png)
