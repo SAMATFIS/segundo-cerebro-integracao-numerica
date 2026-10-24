@@ -131,13 +131,10 @@ Szidarovszky, Ferenc; Yakowitz, Sidney. Principles and Procedures of Numerical A
 Ramos, Jon. Cuadraturas de Gauss | Métodos Numéricos, seção “Idea general”.
 book_ena.pdf. Capítulo 7, Seção 7.2, sobre fórmulas de quadratura interpolatória.
 
-**Evidência:** [`evidencias/pergunta 1_1.png`]
+[📷 Ver Evidência 1](Evidencias/Pergunta1_1.png)
+[📷 Ver Evidência 1](Evidencias/Pergunta1_2.png)
 
 ### Pergunta 2 — O que são as fórmulas de Newton–Cotes?
-
-**Pergunta realizada:**
-
-> O que são as fórmulas de Newton–Cotes e como são construídas a partir da interpolação polinomial de Lagrange? Explique utilizando exclusivamente as fontes disponíveis e apresente as referências.
 
 **Resposta do NotebookLM:**  
 As fórmulas de Newton–Cotes constituem uma família de métodos de integração numérica fundamentados na interpolação polinomial. Sua principal característica é utilizar nós igualmente espaçados no intervalo de integração. A função é aproximada por um polinômio interpolador de Lagrange, cuja integração fornece uma fórmula de quadratura. Entre os principais exemplos estão as regras do trapézio, Simpson 1/3 e Simpson 3/8. O notebook também ressaltou que fórmulas de grau elevado podem apresentar instabilidade numérica, sendo frequentemente preferíveis regras compostas de grau baixo
@@ -150,13 +147,10 @@ algoritmos computacionales.pdf. Capítulo 5, Seção 5.1, pp. 212–215.
 Surana, Karan S. Numerical Methods and Methods of Approximation in Science and Engineering. Capítulo 6, p. 276.
 Garg, Harish. Gauss-Legendre Quadrature Rule | Numerical Linear Algebra. Vídeo educativo.
 
-**Evidência:** `evidencias/pergunta-02-newton-cotes.png`
+[📷 Ver Evidência 2](Evidencias/Pergunta2_1.png)
+[📷 Ver Evidência 2](Evidencias/Pergunta2_2.png)
 
 ### Pergunta 3 — Qual é a diferença entre Newton–Cotes abertas e fechadas?
-
-**Pergunta realizada:**
-
-> Qual é a diferença entre as fórmulas abertas e fechadas de Newton–Cotes? Apresente as características matemáticas e exemplos de cada caso, indicando as fontes utilizadas.
 
 **Resposta do NotebookLM:**  
 A diferença fundamental está na utilização dos extremos do intervalo de integração. As fórmulas fechadas incluem os pontos \(a\) e \(b\) como nós de avaliação, como ocorre nas regras do trapézio e de Simpson. Já as fórmulas abertas utilizam somente pontos interiores, como a regra do ponto médio. O notebook destacou que as fórmulas abertas podem ser úteis quando a função não está definida nos extremos do intervalo.
@@ -166,13 +160,10 @@ Szidarovszky, Ferenc; Yakowitz, Sidney. Principles and Procedures of Numerical A
 book_ena.pdf. Capítulo 7, Seções 7.2–7.3, pp. 234–235.
 Franco, Neide Maria Bertoldi. Cálculo Numérico. Capítulo 11, Seção 11.2.1, p. 325; Capítulo 12, p. 338.
 
-**Evidência:** `evidencias/pergunta-03-newton-cotes.png`
+[📷 Ver Evidência 3](Evidencias/Pergunta3_1.png)
+[📷 Ver Evidência 3](Evidencias/Pergunta3_2.png)
 
 ### Pergunta 4 — O que é a quadratura de Gauss-Legendre?
-
-**Pergunta realizada:**
-
-> O que é a quadratura de Gauss-Legendre? Explique sua construção, o significado dos nós e pesos e o grau de exatidão da fórmula, utilizando exclusivamente os documentos fornecidos e apresentando as citações correspondentes.
 
 **Resposta do NotebookLM:**  
 A quadratura de Gauss-Legendre é um método de integração numérica que seleciona adequadamente os nós e os pesos para maximizar o grau de exatidão da aproximação. Os nós correspondem às raízes dos polinômios de Legendre e, com \(n\) pontos, a fórmula integra exatamente polinômios de grau até \(2n-1\). Para intervalos diferentes de \([-1,1]\), utiliza-se uma transformação linear de variáveis.
@@ -186,13 +177,10 @@ Franco, Neide Maria Bertoldi. Cálculo Numérico. Capítulo 11, Seção 11.3.1, 
 algoritmos computacionales.pdf. Capítulo 5, Seção 5.2, pp. 229–236.
 book_ena.pdf. Capítulo 6, Seção 6.2.3, p. 206; Capítulo 7, Seção 7.5, pp. 241–245.
 
-**Evidência:** `evidencias/pergunta-04-gauss-legendre.png`
+[📷 Ver Evidência 4](Evidencias/Pergunta4_1.png)
+[📷 Ver Evidência 4](Evidencias/Pergunta4_2.png)
 
 ### Pergunta 5 — Qual é a principal diferença entre Newton–Cotes e Gauss-Legendre?
-
-**Pergunta realizada:**
-
-> Compare os métodos de Newton–Cotes e Gauss-Legendre quanto à escolha dos nós de integração, ao grau de exatidão, à precisão e ao custo computacional. Fundamente a comparação nas fontes disponíveis e apresente as respectivas referências.
 
 **Resposta do NotebookLM:**  
 A principal diferença está na escolha dos nós de integração e no grau de exatidão obtido. Nas fórmulas de Newton–Cotes, os nós são igualmente espaçados e previamente definidos. Na quadratura de Gauss-Legendre, os nós são escolhidos como raízes dos polinômios de Legendre, permitindo maior grau de exatidão para o mesmo número de avaliações da função. Com \(n\) nós, Gauss-Legendre alcança grau \(2n-1\), enquanto as fórmulas fechadas de Newton–Cotes apresentam grau \(n-1\) para \(n\) par e \(n\) para \(n\) ímpar. Assim, a quadratura gaussiana pode oferecer maior eficiência computacional em problemas adequados.
@@ -203,7 +191,8 @@ algoritmos computacionales.pdf. Capítulo 5: Integração Numérica, Seções 5.
 book_ena.pdf. Capítulo 7: Numerical Quadrature, Seções 7.2–7.5, pp. 233–245.
 Ramos, Jon. Cuadraturas de Gauss | Métodos Numéricos. Seção “Idea general”.
 
-**Evidência:** `evidencias/pergunta-05-comparacao.png`
+[📷 Ver Evidência 5](Evidencias/Pergunta5_1.png)
+[📷 Ver Evidência 5](Evidencias/Pergunta5_2.png)
 
 ### Aprendizagem interativa — Tutor socrático
 
@@ -280,4 +269,4 @@ A proposta demonstra a aplicação da inteligência artificial como ferramenta c
 Um aspecto fundamental é a **rastreabilidade das informações**, assegurada por meio de citações verificáveis que permitem relacionar as respostas produzidas pelo tutor aos documentos e materiais utilizados no projeto.
 
 
-[📷 Ver Evidência 1](Evidencias/Pergunta1_1.png)
+
