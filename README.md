@@ -23,33 +23,53 @@ As fontes foram selecionadas considerando sua relevância matemática, fundament
 
 ### Fontes utilizadas
 
-1. **Cálculo Numérico — Neide Maria Bertoldi Franco.**  
-   **Justificativa:** Referência para o estudo dos fundamentos da integração numérica, fórmulas de Newton–Cotes, regras de quadratura e análise de erros.
+### 1. Livro: Cálculo Numérico
 
-2. **Mathematical Concepts and Methods in Science and Engineering.**  
-   **Justificativa:** Material complementar destinado ao aprofundamento dos conceitos matemáticos relacionados aos métodos numéricos e suas aplicações científicas.
+- **Autora:** Neide Maria Bertoldi Franco.
+- **Instituição:** Universidade de São Paulo (USP) — Instituto de Ciências Matemáticas e de Computação (ICMC).
+- **Formato:** Livro em PDF.
+- **Conteúdo utilizado:** Capítulo 11 — Integração Numérica, incluindo fórmulas de Newton–Cotes, quadratura interpolatória, Gauss-Legendre e análise de erros.
+- **Por que confio:** É um material acadêmico elaborado por uma pesquisadora vinculada à USP, com fundamentação matemática rigorosa, demonstrações e exercícios aplicados.
 
-3. **Algoritmos Computacionais.**  
-   **Justificativa:** Material de apoio à compreensão dos procedimentos algorítmicos e da implementação computacional dos métodos numéricos.
+### 2. Livro: Explorations in Numerical Analysis
 
-4. **book_ena.pdf.**  
-   **Justificativa:** Livro digital utilizado como referência complementar para consulta e aprofundamento dos fundamentos de análise numérica.
+- **Autores:** James V. Lambers e Amber C. Sumner.
+- **Origem acadêmica:** Material desenvolvido a partir de notas de aulas universitárias de Análise Numérica.
+- **Formato:** Livro digital em PDF (`book_ena.pdf`).
+- **Conteúdo utilizado:** Interpolação polinomial, integração numérica, análise de erros e implementação computacional.
+- **Por que confio:** Apresenta uma abordagem que integra teoria matemática e prática computacional, desenvolvida para cursos universitários avançados.
 
-5. **Numerical Methods and Methods of Approximation — Karan S. Surana.**  
-   **Justificativa:** Referência acadêmica para o estudo dos métodos de aproximação, integração numérica e aplicações em problemas científicos e de Engenharia.
+### 3. Livro: Algoritmos Numéricos
 
-6. **Cuadraturas de Gauss | Métodos Numéricos.**  
-   **Justificativa:** Material voltado à compreensão dos fundamentos da quadratura gaussiana, especialmente a escolha dos nós e a determinação dos pesos de integração.
+- **Autor:** Frederico Ferreira Campos Filho.
+- **Instituição:** Universidade Federal de Minas Gerais (UFMG).
+- **Formato:** Livro em PDF.
+- **Conteúdo utilizado:** Capítulo 5 — Integração Numérica, com regras de Newton–Cotes, quadratura de Gauss-Legendre e algoritmos computacionais.
+- **Por que confio:** É uma obra acadêmica de autoria de um professor universitário, com explicações dos métodos e procedimentos algorítmicos para aplicações numéricas.
 
-7. **[Métodos Numéricos] Integración Numérica — Vídeo educativo.**  
-   **Justificativa:** Recurso audiovisual que complementa a compreensão dos conceitos, procedimentos e aplicações dos métodos de integração numérica.
+### 4. Livro: Principles and Procedures of Numerical Analysis
 
-8. **Gauss-Legendre Quadrature Rule | Numerical Linear Algebra — Vídeo educativo.**  
-   **Justificativa:** Material audiovisual destinado ao estudo das fórmulas de quadratura de Gauss-Legendre e suas propriedades matemáticas.
+- **Autores:** Ferenc Szidarovszky e Sidney Yakowitz.
+- **Instituições:** Eötvös Loránd University e University of Arizona.
+- **Editora:** Plenum Press, 1978; edição digital Springer.
+- **Formato:** Livro acadêmico em PDF.
+- **Conteúdo utilizado:** Capítulo 3 — Diferenciação e Integração Numérica, incluindo quadratura interpolatória, fórmulas de Newton–Cotes e quadratura gaussiana.
+- **Por que confio:** É uma referência acadêmica publicada por editora científica reconhecida, com tratamento teórico dos algoritmos, propriedades matemáticas e análise de convergência.
 
-A utilização de diferentes formatos permite integrar explicações teóricas, demonstrações matemáticas, exemplos numéricos e recursos audiovisuais em uma única base de conhecimento.
+### 5. Livro: Numerical Methods and Methods of Approximation in Science and Engineering
 
-**Princípio metodológico:** O notebook deve fundamentar suas respostas exclusivamente nas fontes disponibilizadas, garantindo a rastreabilidade das informações por meio de citações verificáveis.
+- **Autor:** Karan S. Surana.
+- **Instituição:** University of Kansas.
+- **Editora:** CRC Press / Taylor & Francis.
+- **Formato:** Livro acadêmico em PDF.
+- **Conteúdo utilizado:** Métodos de integração numérica, aproximação matemática e aplicações em Ciências e Engenharia.
+- **Por que confio:** É uma obra especializada em métodos numéricos aplicados, publicada por editora científica, que relaciona os fundamentos matemáticos à resolução de problemas de Engenharia.
+### 6. Artigo Web: Cuadraturas de Gauss | Métodos Numéricos
+- **Autor/Plataforma:** Jon Ramos — Métodos Numéricos.
+- **Formato:** Artigo educacional disponível na web.
+- **Conteúdo utilizado:** Fundamentos da quadratura gaussiana, polinômios ortogonais, determinação de nós e pesos, quadratura de Gauss-Legendre, análise de erros e comparação com Newton–Cotes.
+- **Por que confio:** É um material didático especializado em Métodos Numéricos, que apresenta deduções matemáticas, fórmulas, tabelas de nós e pesos e exemplos resolvidos. Permite complementar os livros acadêmicos com explicações organizadas e aplicações práticas.
+- **Link:** [https://metodosnumericos.jonramos.dev/es/articulos/integracion-gauss/]
 
 ---
 
